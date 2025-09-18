@@ -1,6 +1,6 @@
-**Laboratory Activity #1: Working with Digital Signals**
+# Laboratory Activity #1: Working with Digital Signals 
 
-**Group Information and Grade**
+# Group Information and Grade
 
 **Leader** 
 - John Paul Fidelson
@@ -12,5 +12,5 @@
 - Jaye Dar Talili
 
 
-**Generative AI Citation**
+# Generative AI Citation 
 
