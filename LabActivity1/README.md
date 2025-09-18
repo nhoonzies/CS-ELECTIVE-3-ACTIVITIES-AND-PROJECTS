@@ -6,10 +6,10 @@
 - John Paul Fidelson
   
 **Members**
-- Emanuel Lloyd Dagdag -- 
-- Kyle Andrei Escauriaga -- 
-- Christian Lapidez -- 
-- Jaye Dar Talili -- 
+- Emanuel Lloyd Dagdag -- 95
+- Kyle Andrei Escauriaga -- 92
+- Christian Lapidez -- 100
+- Jaye Dar Talili -- 92
 
 
 # Generative AI Citation 
