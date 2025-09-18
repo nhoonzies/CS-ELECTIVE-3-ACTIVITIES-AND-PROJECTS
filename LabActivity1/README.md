@@ -12,10 +12,9 @@
 - Jaye Dar Talili -- 92
 
 
-# Generative AI Citation 
-- Tools Used:
-- Model:
-- Prompt:
-- Conversation Link:
-- Prompt:
-- Conversation Link:
+# Reference / Citation
+<img width="596" height="476" alt="image" src="https://github.com/user-attachments/assets/ff2851ae-4873-4d5a-9e25-9571ddd6e668" />
+
+PDF - Arduino Guide: Working with Analog and Digital Signals
+Page 1 of 4
+
