@@ -5,7 +5,7 @@
 
 **Instructor:** Sir Johnroe Paulo Cañamaque (Sir Paulo)
 
-**Group Information:**
+# Group Information:
 
 **Leader** 
 - John Paul Fidelson
