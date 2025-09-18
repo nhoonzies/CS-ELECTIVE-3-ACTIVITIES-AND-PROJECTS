@@ -23,3 +23,7 @@ Page 1 of 4
 https://docs.arduino.cc/language-reference/en/structure/control-structure/for
 <img width="912" height="717" alt="image" src="https://github.com/user-attachments/assets/af37759f-601c-44df-a8c7-b3166411bfb1" />
 ARDUINODOCS - Control Structure
+
+
+Github Community - How to add new folder
+https://github.com/orgs/community/discussions/22534
