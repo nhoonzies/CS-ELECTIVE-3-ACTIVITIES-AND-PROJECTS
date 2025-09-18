@@ -6,10 +6,10 @@
 - John Paul Fidelson
   
 **Members**
-- Emanuel Lloyd Dagdag -- 95
+- Emanuel Lloyd Dagdag -- 97
 - Kyle Andrei Escauriaga -- 92
 - Christian Lapidez -- 100
-- Jaye Dar Talili -- 92
+- Jaye Dar Talili -- 93
 
 
 # Reference / Citation
@@ -18,3 +18,5 @@
 PDF - Arduino Guide: Working with Analog and Digital Signals
 Page 1 of 4
 
+ARDUINODOCS - Control Structure
+https://docs.arduino.cc/language-reference/en/structure/control-structure/for
