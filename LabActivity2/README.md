@@ -20,3 +20,7 @@
 
 - ESP32 - Potentiometer Tutorial
 - Link: https://esp32io.com/tutorials/esp32-potentiometer
+<img width="612" height="379" alt="image" src="https://github.com/user-attachments/assets/66ec8685-c487-4ade-b565-89c5b73fd002" />
+PDF - Arduino Guide: Working with Analog and Digital Signals Page 3 out of 4
+<img width="1232" height="776" alt="image" src="https://github.com/user-attachments/assets/95d2719f-7500-4077-96da-27cb1ba47644" />
+Online Guide - https://esp32io.com/tutorials/esp32-potentiometer
