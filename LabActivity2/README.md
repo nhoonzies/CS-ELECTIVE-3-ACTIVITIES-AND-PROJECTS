@@ -20,5 +20,5 @@
 
 
 PDF - Arduino Guide: Working with Analog and Digital Signals Page 3 out of 4
-<img width="1232" height="776" alt="image" src="https://github.com/user-attachments/assets/95d2719f-7500-4077-96da-27cb1ba47644" />
+
 
