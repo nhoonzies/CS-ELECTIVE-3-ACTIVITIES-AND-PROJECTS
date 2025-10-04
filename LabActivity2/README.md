@@ -6,10 +6,10 @@
 - Jaye Dar Talili
   
 **Members**
-- Emanuel Lloyd Dagdag -- 97
-- Kyle Andrei Escauriaga -- 93
-- Christian Lapidez -- 100
-- John Paul Fidelson -- 94
+- Emanuel Lloyd Dagdag --  83
+- Kyle Andrei Escauriaga -- 82
+- Christian Lapidez -- 85
+- John Paul Fidelson -- 84
 
 
 # Reference / Citation / Generative AI Citation
