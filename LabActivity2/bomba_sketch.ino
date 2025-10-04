@@ -1,34 +1,29 @@
-int ledPins[] = {12, 11, 10, 9, 8};
+int ledPins[] = {8, 9, 10, 11, 12};
 int numLeds = 5;
-int i = 0;
-int sensorValue;
-int brightness;
 
 void setup() {
-  i = 0;
-  while (i < numLeds) {
+  for (int i = 0; i < numLeds; i++) {
     pinMode(ledPins[i], OUTPUT);
-    i++;
   }
 }
 
 void loop() {
-  sensorValue = analogRead(A0);                 
-  brightness = map(sensorValue, 0, 1023, 0, 255); 
-
-  // on leds pin 12 to 8
-  i = 0;
-  while (i < numLeds) {
-    analogWrite(ledPins[i], brightness);
-    delay(1000);
-    i++;
+  for (int i = 0; i < numLeds; i++) {
+    for (int brightness = 0; brightness <= 255; brightness++) {
+      analogWrite(ledPins[i], brightness);
+      delay(5);
+    }
+  delay(1000);
   }
 
-  // off on leds pin 12 to 8
-  i = 0;
-  while (i < numLeds) {
-    analogWrite(ledPins[i], 0);
-    delay(1000);
-    i++;
+  for (int i = 0; i < numLeds; i++) {
+    for (int brightness = 255; brightness >= 0; brightness--) {
+      analogWrite(ledPins[i], brightness);
+      delay(5);
+    }
   }
+  delay(1000);
 }
+
+
+
