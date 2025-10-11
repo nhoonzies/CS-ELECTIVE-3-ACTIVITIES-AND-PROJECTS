@@ -6,10 +6,10 @@
 - Christian L. Lapidez
   
 **Members**
-- Emanuel Lloyd Dagdag --  100
-- Kyle Andrei Escauriaga -- 99
-- Jaye Dar Talili -- 98
-- John Paul Fidelson -- 97
+- Emanuel Lloyd Dagdag --  92
+- Kyle Andrei Escauriaga -- 95
+- Jaye Dar Talili -- 94
+- John Paul Fidelson -- 93
 
 
 # Reference / Citation / Generative AI Citation
