@@ -1,4 +1,4 @@
-# Laboratory Activity #2: Working with Sensors
+# Laboratory Activity #3: Working with Sensors
 
 # Group Information and Grade
 
