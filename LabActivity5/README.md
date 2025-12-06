@@ -1,4 +1,4 @@
-# Laboratory Activity #4: Working with Sensors
+# Laboratory Activity #5: Receiving serial connection using Arduino from Python
 
 # Group Information and Grade
 
