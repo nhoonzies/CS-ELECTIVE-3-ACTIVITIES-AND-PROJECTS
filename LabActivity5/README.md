@@ -3,10 +3,10 @@
 # Group Information and Grade
 
 **Leader** 
-- John Paul Fidelson
+- Emanuel Lloyd Dagdag
   
 **Members**
-- Emanuel Lloyd Dagdag -- 
+- John Paul Fidelson -- 
 - Kyle Andrei Escauriaga -- 
 - Christian Lapidez --
 - Jaye Dar Talili -- 
