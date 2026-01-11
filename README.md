@@ -5,15 +5,6 @@
 
 **Instructor:** Sir Johnroe Paulo Cañamaque (Sir Paulo)
 
-# Group Information:
-
-**Leader** 
-- John Paul Fidelson
-  
-**Members**
-- Emanuel Lloyd Dagdag
-- Kyle Andrei Escauriaga
-- Christian Lapidez
-- Jaye Dar Talili
+PORTFOLIO OF LABORATORY ACTIVITIES 
   
 
